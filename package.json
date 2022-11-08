@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-blockchain",
+  "version": "1.0.0",
+  "description": "Blockchain Programming in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "js-sha256": "^0.9.0",
+    "node-fetch": "2"
+  }
+}
