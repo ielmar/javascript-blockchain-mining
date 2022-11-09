@@ -9,7 +9,6 @@ This is a simple Blockchain mining project in Javascript which is formed up whil
 
 ### Built With
 
-
 * NodeJS
 * ExpressJS
 
